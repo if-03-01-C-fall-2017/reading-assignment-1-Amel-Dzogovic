@@ -27,7 +27,7 @@ In a very simplified view on the web we see two main parties:
 - The *web server*
 - The *web client*
 
-Both parties communicate over the internet using a special protocol, known as *[Hyper Text Transfer Protokol (http)](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)*. The technical details of http and lower protocol layers, like tcp/ip and others are not part of this course.
+Both parties communicate over the internet using a special protocol, known as *[Hyper Text Transfer Protocol (http)](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)*. The technical details of http and lower protocol layers, like tcp/ip and others are not part of this course.
 
 To make all resources in the Web accessible and addressable so called *[Unified Resource Locators (url)](https://en.wikipedia.org/wiki/URL)* are used.
 
