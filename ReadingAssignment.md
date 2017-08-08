@@ -22,7 +22,7 @@ The Wikipedia article on web servers. Concentrate on the [Overview section](http
 1. What is a web server?
 1. What does a web server?
 3. Which different types of web servers do you know?
-4. What content do web pages have?
+4. How is content in webpages described?
 
 ## Web Client
 ### Check the following resources
