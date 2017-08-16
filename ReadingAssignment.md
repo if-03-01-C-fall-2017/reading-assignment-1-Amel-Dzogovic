@@ -30,10 +30,11 @@ Wikipedia article on web browsers. Just read the [general introduction](https://
 1. Read the materials presented above.
 2. Create an html document called ``CheatSheet.html`` and store it into your assignment repository. The document should contain the following items:
    1. A ``DOCTYPE`` declaration
-   2. A ``<html>`` element on top level
+   2. An ``<html>`` element on top level
    3. A ``<head>`` element with a meta information concerning the character encoding and a title.
    4. A ``<body>`` element
 3. Cheat Sheet: For each item you read and which you think that helps you to answer the questions in [SampleQuestions.md](SampleQuestions.md) create a paragraph in your file (``CheatSheet.html``).
+4. Pull Request: As soon as you are finished with your cheat sheet, make a pull request that your file is getting graded.
 
 We will do a quiz during one of the next lessons where you can prove that you read the given texts carefully. For this quiz and all the following ones you can use your CheatSheet.
 
@@ -44,7 +45,7 @@ We will do a quiz during one of the next lessons where you can prove that you re
       <strong>meta</strong> &lt;meta charset="utf8" /&gt;
 </p>
 ```
-Of course you can also use `<em>`. Just check your file in the browser and see what you like most.
+Of course you can also use `<em>` instead of `<strong>`. Just check your file in the browser and see what you like most.
 - Take care that your code is formatted properly. Do indentations when you start a new element inside another element.
 
 ## Evaluation
